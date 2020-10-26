@@ -1,6 +1,2 @@
-for sentence in sentences:
-      #print(sentence)
-      
-      for word in sentence.split(' '): ###‹ó”’‚²‚Æ‚É’PŒê‚ª‚ ‚é‚½‚ßsplit(' ')‚ÅˆêŒê‚¸‚ÂŒ©‚ê‚é‚æ‚¤‚É‚µ‚Ä‚¢‚é
-
-‚Æ‚·‚é
+Œ‹‰Ê‚ğto_csv‚·‚éÛ‚É, loss‚Æfold‚Æ‚Ì’·‚³‚ªˆÙ‚È‚é‚½‚ß,
+csv‚É‚·‚é‚Æ‚«‚É’·‚³‚ª1‚É‚È‚Á‚Ä‚¢‚é
