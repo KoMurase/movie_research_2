@@ -1,2 +1,0 @@
-Œ‹‰Ê‚ðto_csv‚·‚éÛ‚É, loss‚Æfold‚Æ‚Ì’·‚³‚ªˆÙ‚È‚é‚½‚ß,
-csv‚É‚·‚é‚Æ‚«‚É’·‚³‚ª1‚É‚È‚Á‚Ä‚¢‚é
